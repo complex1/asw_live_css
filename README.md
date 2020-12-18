@@ -1,13 +1,13 @@
 # Live CSS
 
 Hi live css is js extention that helps to write css in runtime env.
-
+[git link](https://github.com/complex1/asw_live_css)
 ## Get Start
 ```html
 <div class="box"></div>
 ```
 ```javascript
-import liveCss from 'live_css'
+import liveCss from 'asw-live-css'
 
 var style = {
   height: '20px',
